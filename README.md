@@ -1,4 +1,4 @@
-# IMDb Movie Rating Analysis 
+# IMDb Movie Rating Analysis by Zikril Hakim
 
 ## Project Overview
 
